@@ -1,4 +1,4 @@
-*Steps to start:*
+**Steps to start:**
 1. open CRUD in VS code
 2. "cd client" in terminal
 3. "npm install"
